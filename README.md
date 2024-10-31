@@ -11,6 +11,11 @@ Ele é um producer e faz parte de uma simulação de um sistema de venda de prod
 
 No projeto, o tópico foi criado e configurado contendo duas partições. Em outros projetos citados abaixo, criamos dois consumers, onde cada um ficará responsável por consumir as mensagens que chegarão em cada partição respectivamente.
 
+[Kafka consumer 01](https://github.com/eraldoplimajr/kafka-consumer01) - Projeto contendo o consumidor 01
+
+[Kafka consumer 02](https://github.com/eraldoplimajr/kafka-consumer02) - Projeto contendo o consumidor 01
+
+
 ## Table of Contents
 
 - [Pré requisitos](#pré-requisitos)
